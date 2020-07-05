@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Palmetto Spark - Improve & Innovate. Joint Base Charleston's one stop shop for Airmen to improve and innovate. 
 subtitle: "Improve & Innovate"
 minima:
-  skin: dark
+  skin: solarized
 search: true
 
 # Build settings
